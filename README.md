@@ -1,0 +1,2 @@
+# books-to-read
+Here you can find some part of books I was read for my life. You will find them around 100-150 from this place with samples of code and techniques for sure by state on 2021. All of them I had found from public internet and read from 20-30% till 100%. If you have a minute, please, suggest me one more your favourite book by email (skripkabodya@gmail.com) to I can read it and share with others as well. Thanks in advance!
